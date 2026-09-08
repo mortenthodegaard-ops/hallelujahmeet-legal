@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mortenthodegaard-ops.github.io/hallelujahmeet-legal/sitemap.xml
